@@ -1,6 +1,6 @@
 ### Hi, I'm Rishabh 👋
 
-I build small, practical Python projects: trading simulations, data tools and NLP
+I build practical Python projects: trading simulations, data tools, bots and NLP
 experiments. Lately I've been building with [Claude Code](https://claude.com/claude-code).
 
 #### Projects
